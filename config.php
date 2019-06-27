@@ -3,7 +3,7 @@
 $s = 'localhost';
 $u = 'root';
 $p = '';
-$d = 'barantum_db';
+$d = 'crud_db';
 
 $conn = mysqli_connect($s, $u, $p, $d);
 
